@@ -1,0 +1,65 @@
+.foot .top{
+    display: flex;
+    justify-content: space-between;
+    justify-items:center;
+    width:70%;
+    margin: 60px auto 30px auto;
+}
+
+.foot .top h4{
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+
+.foot .top .mid .fa{
+    color: white;
+    text-decoration: none;
+    margin-right:15px;
+    font-size:20px;
+}
+.foot .top .mid .fa:hover{
+   font-size:24px;
+}
+
+.foot .top .right p{
+   color: white;
+   margin: 10px 0px;
+   font-size: 13px;
+}
+
+.foot .top .right input{
+    margin: 5px 0px;
+}
+
+.foot .top .right .email{
+    padding: 10px 13px;
+    border:none;
+}
+
+.foot .top .right .subscribe{
+    padding: 10px 15px;
+    color: white;
+    background-color:#722516;
+    border-radius: 20px;
+    border: none;
+
+}
+.foot .top .right .subscribe:hover{
+   padding: 12px 17px;
+}
+
+.foot .bottom{
+    width:25%;
+    margin: 30px auto;
+    text-align:center;
+}
+.foot p{
+    margin-bottom: 10px;
+    font-size:12px;
+}
+
+.foot .payment .fa{
+    margin-right:10px;
+    color: white;
+    font-size:30px;
+}
